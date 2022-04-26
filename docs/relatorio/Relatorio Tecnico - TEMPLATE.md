@@ -1,9 +1,9 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+Dificuldade de organizar a rotina  
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-`CURSO` 
+ Ciências da Computação
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
@@ -14,8 +14,10 @@
 > Inclua a lista dos membros da equipe com seus nomes completos.
 >
 > Os membros do grupo são: 
-> - 
-> - Ciclano Albuquerque
+> - Cristiano Silva Robini Macedo
+> - João Pedro Nascimento Fernandes
+> - Kauhan Roger Neves Teodoro
+> - Tiago Augusto Simionato Tozo
 
 # Estrutura do Documento
 
