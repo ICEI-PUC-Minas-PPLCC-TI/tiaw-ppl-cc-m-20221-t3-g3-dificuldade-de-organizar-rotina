@@ -78,7 +78,11 @@ Diariamente, precisamos escolher o que vamos fazer com o tempo limitado que temo
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Montar uma aplicação que auxilie as pessoas a organizarem melhor suas rotinas, de modo que consigam ser mais produtivas no trabalho e/ou estudos, e também ter tempo   para hobbies e atividades de lazer.
+  Objetivos específicos:
+   - Descobrir quais métodos são mais eficazes para uma boa organização.
+   - Permitir que o usuário ranqueie a prioridade de suas tarefas, para ajudá-lo a definir prioridades.
+
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
@@ -91,7 +95,7 @@ Diariamente, precisamos escolher o que vamos fazer com o tempo limitado que temo
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Escolhemos esse tema pois, pelas pesquisas e também pelo contato com pessoas próximas, percebemos que muitas delas possuem dificuldade em fazer uma rotina que equilibre compromissos e lazer. Assim, buscamos realizar uma plataforma que ajude a montar rotinas de modo que o usuário seja mais produtivo no trabalho e tenha tempo para seus hobbies, também o ajudando a identificar suas prioridades.
 
 > Descreva a importância ou a motivação para trabalhar com esta aplicação
 > que você escolheu. Indique as razões pelas quais você escolheu seus
@@ -107,7 +111,7 @@ Diariamente, precisamos escolher o que vamos fazer com o tempo limitado que temo
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Pessoas de qualquer gênero e idade que possuem dificuldade em organizar a rotina e/ou desejam migrar para uma agenda virtual são um público válido. Mas como esse problema é tão abrangente, avaliamos os resultados de nossa pesquisa e decidimos estreitar um pouco nosso foco para estudantes e adultos que trabalham.
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
