@@ -58,7 +58,7 @@ Dificuldade de organizar a rotina
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Diariamente, precisamos escolher o que vamos fazer com o tempo limitado que temos, e, infelizmente, muitas pessoas têm dificuldade em organizar sua rotina, resultando em perda de produtividade, atraso ou não entrega de tarefas e desorganização, comprometendo diversas áreas de suas vidas.
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
