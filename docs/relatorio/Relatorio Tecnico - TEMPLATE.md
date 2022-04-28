@@ -112,7 +112,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Diogo Carrer        | Cadastrar suas atividades diárias  | Não deixar de fazer por esquecimento   |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Diogo Carrer        | Ver as atividades já realizadas    | Manter controle de o que já foi feito  |
+|Bernardo Ribeiro    | Organizar atividades prioritárias  | Dedicar seu tempo no mais relevante    |
+|Bernardo Ribeiro    | Editar as atividades em andamento  | Não precisar criar novas atividades    |
+|Ana Clara           | Ordenar as atividades              | Identificar as atividades urgentes     |
+|Ana Clara           | Desistir de uma atividade sem removê-la   | Saber quais atividades ela não está conseguindo realizar  |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
