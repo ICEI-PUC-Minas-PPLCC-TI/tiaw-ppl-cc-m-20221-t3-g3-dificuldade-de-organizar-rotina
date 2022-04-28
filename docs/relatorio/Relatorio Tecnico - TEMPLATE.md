@@ -126,8 +126,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Criação de Cards | ALTA | 
+|RF-002| Cards Editáveis   | ALTA |
+|RF-003| Gráfico de Eficiência   | BAIXA |
+|RF-004| Múltipla funcionalidade e possibilidades na criação de cards   | MÉDIA |
+|RF-005| Possível calendario para ter uma visão periférica de todos os afazeres   | MÉDIA |
+|RF-006| Nível de Importância bem definida (ex: por cores[verde,amarelo, vermelho] ou negrito)   | ALTA |
+|RF-007| Cadastro e/ou opção de projetos públicos/privados   | MÉDIA |
 
 
 ### Requisitos não Funcionais
