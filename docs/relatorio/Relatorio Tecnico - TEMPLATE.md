@@ -1,11 +1,11 @@
 # Informações do Projeto
-Dificuldade de organizar a rotina  
+  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Dificuldade de organizar a rotina
 
- Ciências da Computação
 
-......  COLOQUE AQUI O SEU TEXTO ......
+
+Ciências da Computação
 
 ## Participantes
 
