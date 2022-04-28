@@ -75,11 +75,7 @@ Pessoas de qualquer gênero e idade que possuem dificuldade em organizar a rotin
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+Nessa parte do projeto, realizamos pesquisas, através do Google Forms, e com os resultados montamos nossas personas e mapas de empatia, pelo Miro.
 
 ## Personas e Mapas de Empatia
 
