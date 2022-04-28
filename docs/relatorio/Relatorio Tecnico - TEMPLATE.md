@@ -152,6 +152,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
+|03| O projeto deve ser feito usando o GitHub        |
+|04| O projeto precisa ser dividido entre os quatro membros      |
+|05| É obrigatório usar estratégias de Design Thinking e metodologia Scrum      |
 
 
 > Enumere as restrições à sua solução. Lembre-se de que as restrições
