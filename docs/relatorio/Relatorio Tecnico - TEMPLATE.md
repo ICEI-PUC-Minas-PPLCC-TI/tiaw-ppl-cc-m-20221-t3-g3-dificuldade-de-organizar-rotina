@@ -5,7 +5,7 @@ Dificuldade de organizar a rotina
 
 
 
-Trabalho Interdisciplicar Aplicações Web - Ciências da Computação
+Trabalho Interdisciplicar de Aplicações Web - Ciências da Computação
 
 ## Participantes
 
