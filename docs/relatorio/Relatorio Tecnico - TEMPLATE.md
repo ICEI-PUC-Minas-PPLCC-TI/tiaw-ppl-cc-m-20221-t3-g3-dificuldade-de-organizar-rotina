@@ -1,7 +1,7 @@
 # Informações do Projeto
   
 
-Dificuldade de organizar a rotina
+BoAgenda
 
 
 
@@ -191,7 +191,7 @@ Dada a natureza do nosso trabalho, não é possível ter verdadeiramente um Prod
 
 ## Controle de Versão
 
-A ferramenta de controle de versão que utilizamos é o Git. O repositório Git é hospedado no GitHub.
+A ferramenta de controle de versão que utilizamos é o Git. Ainda não usamos 
 
 # **############## SPRINT 1 ACABA AQUI #############**
 
