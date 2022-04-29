@@ -191,7 +191,7 @@ Dada a natureza do nosso trabalho, não é possível ter verdadeiramente um Prod
 
 ## Controle de Versão
 
-A ferramenta de controle de versão que utilizamos é o Git. Ainda não usamos 
+A ferramenta de controle de versão que utilizamos é o Git. Ainda não adotamos nenhuma metodologia de organização para o projeto.
 
 # **############## SPRINT 1 ACABA AQUI #############**
 
