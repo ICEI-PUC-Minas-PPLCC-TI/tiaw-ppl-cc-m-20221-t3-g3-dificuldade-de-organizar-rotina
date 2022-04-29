@@ -184,34 +184,19 @@ Wireframe Perfil do Usuário
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+A metodologia que nós usamos é o Scrum, usamos o Discord para as reuniões, e usaremos o Trello para dividir as tarefas.
+Os arquivos são mantidos no Google Drive, para arquivos de edição síncrona, e o resto é mantido no GitHub através do GitHub Classroom.
+Nossa pesquisa foi feita pela estratégia de Design Thinking, usando o Miro como ferramenta, e nossas entrevistas foram feitas através de um formulário do Google Forms.
+Os Wireframes foram feitos através do Figma e o User Flow através do Wireflow.
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Dada a natureza do nosso trabalho, não é possível ter verdadeiramente um Product Owner e um Scrum Master, principalmente porque todos precisam ser desenvolvedores, então essas tarefas foram feitas com a finalidade de aprendizado por membros que também são desenvolvedores.
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-
+ - Cristiano Silva Robini Macedo: Desenvolvedor
+ - João Pedro Nascimento Fernandes: Desenvolvedor
+ - Kauhan Roger Neves Teodoro: Desenvolvedor
+ - Tiago Augusto Simionato Tozo: Desenvolvedor
 
 ## Ferramentas
 
@@ -219,33 +204,12 @@ Wireframe Perfil do Usuário
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
-|Repositório de código | GitHub | https://github.com/XXXXXXX | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
-
->
-> Liste as ferramentas empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
-> As ferramentas empregadas no projeto são:
-> 
-> - Editor de código.
-> - Ferramentas de comunicação
-> - Ferramentas de diagramação
-> - Plataforma de hospedagem
-> 
-> O editor de código foi escolhido porque ele possui uma integração com o
-> sistema de versão. As ferramentas de comunicação utilizadas possuem
-> integração semelhante e por isso foram selecionadas. Por fim, para criar
-> diagramas utilizamos essa ferramenta por melhor captar as
-> necessidades da nossa solução.
-> 
-> **Links Úteis - Hospedagem**:
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
+|Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVOBuP2E0=/ | 
+|Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20221-t3-g3-dificuldade-de-organizar-rotina | 
+|Protótipo Interativo | Figma |  https://www.figma.com/file/UWc3V7jHC5c3T1i8KNRLy2/Untitled?node-id=0%3A1 | 
+|Comunicação | Discord | https://discord.com/ | 
+|Editor de Código | Visual Studio Code | https://code.visualstudio.com/ | 
+|User Flow | Wireflow | https://wireflow.co/ | 
 
 ## Controle de Versão
 
